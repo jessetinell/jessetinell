@@ -1,3 +1,3 @@
-# Developer / VC
+# AI Engineer / VC
 
-Investing up to €1M in technical founders building the next big thing.
+Building autonomous agents and backing AI-native teams with up to €1M.
