@@ -1,3 +1,3 @@
-# AI Engineer / VC
+# dev / VC
 
-Building autonomous agents and backing AI-native teams with up to €1M.
+Building autonomous fluff and backing AI-native teams with up to €1M.
